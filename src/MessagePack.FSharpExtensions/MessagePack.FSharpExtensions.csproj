@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <Version>1.4.0</Version>
-    <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
     <Authors>pocketberserker</Authors>
     <Owners>pocketberserker</Owners>
     <PackageProjectUrl>https://github.com/pocketberserker/MessagePack.FSharpExtensions</PackageProjectUrl>
